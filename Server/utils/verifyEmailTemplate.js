@@ -5,7 +5,7 @@ const verifyEmailTemplate = ({ name }) => {
 <br/>
 <p>Click Know:</p>
 <a href="https://varad-wagh-port-folio-git-main-varadwagh327s-projects.vercel.app" style="color:black;background :orange;margin-top : 10px,padding:20px,display:block">
-    Varad Wagh Profile
+ Varad Wagh Profile
 </a>
 `
 }
